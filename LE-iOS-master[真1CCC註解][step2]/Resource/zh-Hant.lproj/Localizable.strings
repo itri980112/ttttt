@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  LesEnphants
+
+  Created by Rusty Huang on 2015/1/22.
+  Copyright (c) 2015年 Rusty Huang. All rights reserved.
+*/
+//COMMON
+"LE_COMMON_SEND" = "送出";
+"LE_COMMON_CANCEL" = "取消";
+"LE_COMMON_DELETE" = "刪除";
+"LE_COMMON_FINISH" = "完成";
+"LE_COMMON_DELETEHINT" = "刪除此留言？";
+"LE_COMMON_CONFIRM" = "確認";
+//MAIN
+"LE_MAIN_TITLE" = "好孕邦";
+"LE_MAIN_COUNTDOWN" = "倒數天數";
+"LE_MAIN_PREGNOTE" = "懷孕記事";
+"LE_MAIN_NEXTTEST" = "下次產檢";
+"LE_MAIN_NEXTCNT" = "無";
+
+//MENU
+"LE_MENU_PREGDATE" = "預產期 %@";
+"LE_MENU_HOME" = "首頁";
+"LE_MENU_CHAT" = "同心熱線";
+"LE_MENU_PREG" = "懷孕記事";
+"LE_MENU_BOOK" = "孕媽咪寶典";
+"LE_MENU_NEWS" = "好康資訊";
+"LE_MENU_GOLD" = "好孕邦金幣";
+"LE_MENU_GROUP" = "孕媽咪社群";
+"LE_MENU_FB" = "麗嬰房 媽咪同學會粉絲團";
+
+//社群
+"LE_GROUP_MANAGEMEMBER_TITLE" = "管理社員";
+"LE_GROUP_MANAGEMEMBER_TYPE" = "會員身份";
+"LE_GROUP_MANAGEMEMBER_BABYWEEK" = "寶寶週數";
+"LE_GROUP_MANAGEMEMBER_COMANAGEMENT" = "授權成為共同管理者";
+"LE_GROUP_MANAGEMEMBER_DELETE" = "刪除社員";
+"LE_GROUP_MANAGEMEMBER_ALLMEMBER" = "所有社員";
+"LE_GROUP_MANAGEMEMBER_NEWAPPLY" = "新申請加入會員";
+"LE_GROUP_COMMENT_COUNT" = "留言數:%ld";
+"LE_GROUP_COMMENT_LEAVEMSG" = "留言";
+"LE_GROUP_COMMENT_DELETEARTICLE" = "刪除文章";
+"LE_GROUP_COMMENT_DELETEARTICLE2" = "檢舉文章";
+
+"LE_GROUP_NEWARTICLE_TITLE" = "新增討論文章";
+"LE_GROUP_NEWARTICLE_TYPE" = "文章分類：";
+"LE_GROUP_NEWARTICLE_TYPEHINT" = "請輸入文章分類";
+"LE_GROUP_NEWARTICLE_NEWPIC" = "新增照片";
+"LE_GROUP_NEWARTICLE_POPUPHINT" = "請輸入文章分類";
+"LE_GROUP_NEWARTICLE_ADDNEW" = "新增討論文章";
+
+
+"LE_GROUP_INFO_TITLE" = "社團資訊";
+"LE_GROUP_INFO_STARTSET" = "寶寶星座設定";
+"LE_GROUP_INFO_COUNT" = "社團人數：";
+"LE_GROUP_INFO_ARTICLECOUNT" = "討論文章：";
+"LE_GROUP_INFO_AREA" = "地區：";
+"LE_GROUP_INFO_PURPOSE" = "社團宗旨";
+"LE_GROUP_INFO_REPORT" = "檢舉社團";
+
+
+"LE_GROUP_EDITINFO_TITLE" = "編輯社團資訊";
+"LE_GROUP_EDITINFO_HINT" = "編輯社團基本資料";
+"LE_GROUP_EDITINFO_START" = "寶寶星座，生肖設定";
+"LE_GROUP_EDITINFO_AREA" = "*地區設定";
+"LE_GROUP_EDITINFO_PURPOSE" = "社團宗旨";
+"LE_GROUP_EDITINFO_UPLOAD" = "上傳圖片";
+"LE_GROUP_EDITINFO_PUBLIC" = "公開";
+"LE_GROUP_EDITINFO_MANAGEMENT" = "管理社員";
+
+"LE_GROUP_PURPOSE_TITLE" = "社團宗旨";
+"LE_GROUP_PURPOSE_TYPE" = "社團分類：";
+"LE_GROUP_PURPOSE_CHOOSE" = "請選擇分類";
+"LE_GROUP_PURPOSE_PURPOSE" = "社團宗旨：";
+
+
+"LE_GROUP_NEWASSO_TITLE" = "建立社團";
+"LE_GROUP_NEWASSO_HINT" = "社團基本資料";
+"LE_GROUP_NEWASSO_PLACEHOLD" = "請輸入社團名稱";
+"LE_GROUP_NEWASSO_STAR" = "寶寶星座，生肖設定";
+"LE_GROUP_NEWASSO_AREA" = "地區設定";
+"LE_GROUP_NEWASSO_PURPOSE" = "社團宗旨";
+"LE_GROUP_NEWASSO_UPLOAD" = "上傳圖片";
+"LE_GROUP_NEWASSO_Public" = "公開";
+
+"LE_GROUP_MYASSO_TITLE" = "我的社團";
+"LE_GROUP_MYASSO_MINE" = "我建立的社團";
+"LE_GROUP_MYASSO_JOIN" = "已加入的社團";
+
+"LE_GROUP_MAIN_TITLE" = "孕媽咪社團";
+"LE_GROUP_MAIN_ALL" = "社團分類";
+"LE_GROUP_MAIN_HOT" = "熱門社團";
+"LE_GROUP_MAIN_SEARCH" = "搜尋社團";
+"LE_GROUP_MAIN_KEYWORD" = "闗鍵字查詢";
+"LE_GROUP_MAIN_AREA" = "依地區查詢";
+"LE_GROUP_MAIN_STAR" = "依寶寶生肖，星座查詢";
+
+//同心熱線
+"LE_LINE_MAIN_TITLE" = "同心熱線";
+"LE_LINE_MAIN_MOOD" = "心情";
+"LE_LINE_MAIN_TAB1" = "親友團";
+"LE_LINE_MAIN_TAB1-1" = "問候設定";
+"LE_LINE_MAIN_TAB2" = "訊息";
+"LE_LINE_MAIN_TAB3" = "交辦事項";
+"LE_LINE_MAIN_TAB4" = "配對";
+"LE_LINE_MAIN_INPUTID" = "輸入ID";
+"LE_LINE_MAIN_MYQR" = "我的QR Code";
+"LE_LINE_MAIN_FA1" = "推播通知準媽媽心情改變";
+"LE_LINE_MAIN_FA2" = "問候內容";
+"LE_LINE_MAIN_FA3" = "提醒通知";
+"LE_LINE_MAIN_ADDTODO" = "新增交辦事項";
+"LE_LINE_MAIN_INPUTHINT" = "自行輸入交辦事項";
+
+"LE_LINE_TODO_S1" = "回家的時候記得幫我按摩喔";
+"LE_LINE_TODO_S2" = "記得和肚子的北鼻說說話";
+"LE_LINE_TODO_S3" = "記得倒垃圾";
+"LE_LINE_TODO_S4" = "記得陪我去產檢喔";
+"LE_LINE_TODO_S5" = "記得洗衣服喔";
+"LE_LINE_TODO_S6" = "晚餐後陪我去散散步";
+"LE_LINE_TODO_S7" = "今天早一點下班陪我喔";
+
+
+"LE_KNOWLEDGE_TITLE" = "寶典";
+"LE_KNOWLEDGE_ADVSEARCH" = "進階查詢";
+"LE_KNOWLEDGE_KEYWORDSEARCH" = "關鍵字查詢";
+"LE_KNOWLEDGE_HINT" = "例：懷孕期出血";
+"LE_KNOWLEDGE_WEEK" = "懷孕週數";
+"LE_KNOWLEDGE_PEOPLE" = "查詢對象";
+
+"LE_KNOWLEDGE_PEOPLE1" = "無";
+"LE_KNOWLEDGE_PEOPLE2" = "準媽媽";
+"LE_KNOWLEDGE_PEOPLE3" = "準爸爸";
+"LE_KNOWLEDGE_PEOPLE4" = "其他人";
+
+//好康資訊
+"LE_NEWS_TITLE" = "好康資訊";
+"LE_NEWS_B1" = "孕媽咪獨享";
+"LE_NEWS_B2" = "媽媽教室";
+"LE_NEWS_B3" = "特賣資訊";
+"LE_NEWS_B4" = "政府單位輔助資訊";
+"LE_NEWS_B5" = "店鋪資訊";
+"LE_NEWS_B6" = "推薦APP";
+
+
+"LE_NOTE_TITLE" = "懷孕記事";
+"LE_NOTE_TAB1" = "胎心音";
+"LE_NOTE_TAB2" = "超音波";
+"LE_NOTE_TAB3" = "身型記錄";
+"LE_NOTE_TAB4" = "每週體重記錄";
+
+"LE_NOTE_S1" = "輸入目前體重";
+"LE_NOTE_S2" = "體重曲線";
+"LE_NOTE_S3" = "每週體重記錄";
+"LE_NOTE_EDIT" = "編輯";
+"LE_NOTE_KNOWLEDGE" = "孕婦飲食大小事";
+
+"LE_PREG_S1" = "產檢日";
+"LE_PREG_S2" = "時間：";
+"LE_PREG_S3" = "提醒通知";
+"LE_PREG_S4" = "新增備忘錄";
+
+"LE_MYPREG_TITLE" = "我的預產期";
+"LE_MYBIRTHDAY_TITLE" = "我的生日";
+"LE_MYNICKNAME_TITLE" = "我的暱稱";
+"LE_MYDATA_TITLE" = "個人資料";
+"LE_POINT_TITLE" = "累積點數";
+"LE_CHANGEPIC_TITLE" = "更換背景圖";
+"LE_MYID_TITLE" = "我的ID";
+"LE_PROMOTEID_TITLE" = "推薦人ID";
+"LE_PROMOTEID_HINT" = "請輸入推薦人ID";
+"LE_POINTEXCHANGE_TITLE" = "金幣兌換";

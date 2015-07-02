@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment version="784" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clearsContextBeforeDrawing="NO" contentMode="scaleToFill" selectionStyle="blue" indentationWidth="10" reuseIdentifier="RHAssociationPostCntCellIdentifier2" id="2" customClass="RHAssociationPostCntCell2">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="380"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" tableViewCell="2" id="AAx-Xz-bja">
+                <rect key="frame" x="0.0" y="0.0" width="300" height="379"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" id="23">
+                        <rect key="frame" x="0.0" y="0.0" width="300" height="379"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="飲食" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="12" id="Iv1-9A-ySE">
+                                <rect key="frame" x="70" y="10" width="100" height="12"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Emily" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Rug-vc-wg0">
+                                <rect key="frame" x="70" y="34" width="110" height="15"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2014年12月12日 12:00" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="rUh-VL-IMV">
+                                <rect key="frame" x="70" y="49" width="119" height="16"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="留言數 100" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="tfb-aF-MAj">
+                                <rect key="frame" x="196" y="51" width="51" height="12"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="pIm-Gx-YWD">
+                                <rect key="frame" x="267" y="50" width="39" height="16"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="em0-hQ-CSA">
+                                <rect key="frame" x="267" y="34" width="39" height="16"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="g79-aG-agr">
+                                <rect key="frame" x="5" y="5" width="60" height="60"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_檢舉人數.png" id="9RN-hY-g6V">
+                                <rect key="frame" x="255" y="37" width="10" height="9"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_按讚人數.png" id="wsg-hO-1n8">
+                                <rect key="frame" x="255" y="53" width="10" height="9"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="GkM-sU-Dzg">
+                                <rect key="frame" x="0.0" y="357" width="100" height="22"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinY="YES"/>
+                                <state key="normal" image="like article.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="selected" image="icon_按讚人數.png"/>
+                                <connections>
+                                    <action selector="pressLikeBtn:" destination="2" eventType="touchUpInside" id="Ccx-ZC-t6v"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="i2e-7i-5RF">
+                                <rect key="frame" x="100" y="357" width="100" height="22"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <state key="normal" title="留言">
+                                    <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="pressCommentBtn:" destination="2" eventType="touchUpInside" id="Qj7-KH-UZg"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="M31-3S-40z">
+                                <rect key="frame" x="200" y="357" width="100" height="22"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <state key="normal" title="刪除文章">
+                                    <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="pressDeleteBtn:" destination="2" eventType="touchUpInside" id="gwG-jD-bxH"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="huP-Mu-v3o">
+                                <rect key="frame" x="10" y="301" width="280" height="46"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <string key="text">fsdjflksdjfklsdjlfksjdklfjsdljfklsdjlfjdslfjklsdjfklsdjfkldjlfjlsjflksdjflkdsjlkfjdsklfjdlsfjldsjflkdsjflsdfsdfsdfdlskjfklsdjflksdjflksdjklfjdslkfjkldsjfklsjflksdjfklsdjfsf fsdjflksdjfklsdjlfksjdklfjsdljfklsdjlfjdslfjklsdjfklsdjfkldjlfjlsjflksdjflkdsjlkfjdsklfjdlsfjldsjflkdsjflsdfsdfsdfdlskjfklsdjflksdjflksdjklfjdslkfjkldsjfklsjflksdjfklsdjfsf</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" editable="NO" id="jld-PB-5VW" customClass="RHTextView">
+                                <rect key="frame" x="10" y="301" width="280" height="46"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <string key="text">fsdjflksdjfklsdjlfksjdklfjsdljfklsdjlfjdslfjklsdjfklsdjfkldjlfjlsjflksdjflkdsjlkfjdsklfjdlsfjldsjflkdsjflsdfsdfsdfdlskjfklsdjflksdjflksdjklfjdslkfjkldsjfklsjflksdjfklsdjfsf fsdjflksdjfklsdjlfksjdklfjsdljfklsdjlfjdslfjklsdjfklsdjfkldjlfjlsjflksdjflkdsjlkfjdsklfjdlsfjldsjflkdsjflsdfsdfsdfdlskjfklsdjflksdjflksdjklfjdslkfjkldsjfklsjflksdjfklsdjfsf</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="Q5D-04-y2z">
+                                <rect key="frame" x="10" y="70" width="280" height="225"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="02討論文章.png" id="YAb-d2-paE">
+                                <rect key="frame" x="181" y="50" width="10" height="14"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.96862745098039216" green="0.91764705882352937" blue="0.86274509803921573" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="calibratedRGB"/>
+            <connections>
+                <outlet property="m_pBtnComment" destination="i2e-7i-5RF" id="om6-j6-kqm"/>
+                <outlet property="m_pBtnDelete" destination="M31-3S-40z" id="Vph-hC-avY"/>
+                <outlet property="m_pBtnLike" destination="GkM-sU-Dzg" id="Scm-d6-jou"/>
+                <outlet property="m_pIconImgView" destination="g79-aG-agr" id="KGd-KY-TNP"/>
+                <outlet property="m_pImageView" destination="Q5D-04-y2z" id="dCR-Kx-bfp"/>
+                <outlet property="m_pLblClass" destination="Iv1-9A-ySE" id="3qE-Er-EhZ"/>
+                <outlet property="m_pLblCnt" destination="huP-Mu-v3o" id="W1o-QE-mZ2"/>
+                <outlet property="m_pLblComment" destination="tfb-aF-MAj" id="mdc-uD-kjf"/>
+                <outlet property="m_pLblLite" destination="pIm-Gx-YWD" id="cmT-Q4-UbX"/>
+                <outlet property="m_pLblName" destination="Rug-vc-wg0" id="wCC-9u-ESp"/>
+                <outlet property="m_pLblViolation" destination="em0-hQ-CSA" id="rg0-fa-I0u"/>
+                <outlet property="m_pTxtCnt" destination="jld-PB-5VW" id="iiS-ta-dbg"/>
+                <outlet property="m_plblDatetime" destination="rUh-VL-IMV" id="AvX-D7-D9c"/>
+            </connections>
+            <point key="canvasLocation" x="322" y="208"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="02討論文章.png" width="14" height="18"/>
+        <image name="icon_按讚人數.png" width="10" height="10"/>
+        <image name="icon_檢舉人數.png" width="9" height="8"/>
+        <image name="like article.png" width="16" height="15"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

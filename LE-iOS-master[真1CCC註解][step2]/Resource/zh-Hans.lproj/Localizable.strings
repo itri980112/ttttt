@@ -1,0 +1,172 @@
+/*
+ Localizable.strings
+ LesEnphants
+ 
+ Created by Rusty Huang on 2015/1/22.
+ Copyright (c) 2015年 Rusty Huang. All rights reserved.
+ */
+//COMMON
+"LE_COMMON_SEND" = "送出";
+"LE_COMMON_CANCEL" = "取消";
+"LE_COMMON_DELETE" = "删除";
+"LE_COMMON_FINISH" = "完成";
+"LE_COMMON_DELETEHINT" = "删除此留言？";
+"LE_COMMON_CONFIRM" = "确认";
+//MAIN
+"LE_MAIN_TITLE" = "好孕邦";
+"LE_MAIN_COUNTDOWN" = "倒数天数";
+"LE_MAIN_PREGNOTE" = "怀孕记事";
+"LE_MAIN_NEXTTEST" = "下次产检";
+"LE_MAIN_NEXTCNT" = "无";
+
+//MENU
+"LE_MENU_PREGDATE" = "预产期 %@";
+"LE_MENU_HOME" = "首页";
+"LE_MENU_CHAT" = "同心热线";
+"LE_MENU_PREG" = "怀孕记事";
+"LE_MENU_BOOK" = "孕妈咪宝典";
+"LE_MENU_NEWS" = "好康资讯";
+"LE_MENU_GOLD" = "好孕邦金币";
+"LE_MENU_GROUP" = "孕妈咪社群";
+"LE_MENU_FB" = "丽婴房 妈咪同学会粉丝团";
+
+//社群
+"LE_GROUP_MANAGEMEMBER_TITLE" = "管理社员";
+"LE_GROUP_MANAGEMEMBER_TYPE" = "会员身份";
+"LE_GROUP_MANAGEMEMBER_BABYWEEK" = "宝宝周数";
+"LE_GROUP_MANAGEMEMBER_COMANAGEMENT" = "授权成为共同管理者";
+"LE_GROUP_MANAGEMEMBER_DELETE" = "删除社员";
+"LE_GROUP_MANAGEMEMBER_ALLMEMBER" = "所有社员";
+"LE_GROUP_MANAGEMEMBER_NEWAPPLY" = "新申请加入会员";
+"LE_GROUP_COMMENT_COUNT" = "留言数:%ld";
+"LE_GROUP_COMMENT_LEAVEMSG" = "留言";
+"LE_GROUP_COMMENT_DELETEARTICLE" = "删除文章";
+"LE_GROUP_COMMENT_DELETEARTICLE2" = "检举文章";
+
+"LE_GROUP_NEWARTICLE_TITLE" = "新增讨论文章";
+"LE_GROUP_NEWARTICLE_TYPE" = "文章分类：";
+"LE_GROUP_NEWARTICLE_TYPEHINT" = "请输入文章分类";
+"LE_GROUP_NEWARTICLE_NEWPIC" = "新增照片";
+"LE_GROUP_NEWARTICLE_POPUPHINT" = "请输入文章分类";
+"LE_GROUP_NEWARTICLE_ADDNEW" = "新增讨论文章";
+
+
+"LE_GROUP_INFO_TITLE" = "社团资讯";
+"LE_GROUP_INFO_STARTSET" = "宝宝星座设定";
+"LE_GROUP_INFO_COUNT" = "社团人数：";
+"LE_GROUP_INFO_ARTICLECOUNT" = "讨论文章：";
+"LE_GROUP_INFO_AREA" = "地区：";
+"LE_GROUP_INFO_PURPOSE" = "社团宗旨";
+"LE_GROUP_INFO_REPORT" = "检举社团";
+
+
+"LE_GROUP_EDITINFO_TITLE" = "编辑社团资讯";
+"LE_GROUP_EDITINFO_HINT" = "编辑社团基本资料";
+"LE_GROUP_EDITINFO_START" = "宝宝星座，生肖设定";
+"LE_GROUP_EDITINFO_AREA" = "*地区设定";
+"LE_GROUP_EDITINFO_PURPOSE" = "社团宗旨";
+"LE_GROUP_EDITINFO_UPLOAD" = "上传图片";
+"LE_GROUP_EDITINFO_PUBLIC" = "非公开";
+"LE_GROUP_EDITINFO_MANAGEMENT" = "管理社员";
+
+"LE_GROUP_PURPOSE_TITLE" = "社团宗旨";
+"LE_GROUP_PURPOSE_TYPE" = "社团分类：";
+"LE_GROUP_PURPOSE_CHOOSE" = "请选择分类";
+"LE_GROUP_PURPOSE_PURPOSE" = "社团宗旨：";
+
+
+"LE_GROUP_NEWASSO_TITLE" = "建立社团";
+"LE_GROUP_NEWASSO_HINT" = "社团基本资料";
+"LE_GROUP_NEWASSO_PLACEHOLD" = "请输入社团名称";
+"LE_GROUP_NEWASSO_STAR" = "宝宝星座，生肖设定";
+"LE_GROUP_NEWASSO_AREA" = "地区设定";
+"LE_GROUP_NEWASSO_PURPOSE" = "社团宗旨";
+"LE_GROUP_NEWASSO_UPLOAD" = "上传图片";
+"LE_GROUP_NEWASSO_Public" = "非公开";
+
+"LE_GROUP_MYASSO_TITLE" = "我的社团";
+"LE_GROUP_MYASSO_MINE" = "我建立的社团";
+"LE_GROUP_MYASSO_JOIN" = "已加入的社团";
+
+"LE_GROUP_MAIN_TITLE" = "孕妈咪社团";
+"LE_GROUP_MAIN_ALL" = "所有社团";
+"LE_GROUP_MAIN_HOT" = "热门社团";
+"LE_GROUP_MAIN_SEARCH" = "搜寻社团";
+"LE_GROUP_MAIN_KEYWORD" = "闗键字查询";
+"LE_GROUP_MAIN_AREA" = "依地区查询";
+"LE_GROUP_MAIN_STAR" = "依宝宝生肖，星座查询";
+
+//同心热线
+"LE_LINE_MAIN_TITLE" = "同心热线";
+"LE_LINE_MAIN_MOOD" = "心情";
+"LE_LINE_MAIN_TAB1" = "亲友团";
+"LE_LINE_MAIN_TAB1-1" = "问候设定";
+"LE_LINE_MAIN_TAB2" = "讯息";
+"LE_LINE_MAIN_TAB3" = "交办事项";
+"LE_LINE_MAIN_TAB4" = "配对";
+"LE_LINE_MAIN_INPUTID" = "输入ID";
+"LE_LINE_MAIN_MYQR" = "我的QR Code";
+"LE_LINE_MAIN_FA1" = "推播通知准妈妈心情改变";
+"LE_LINE_MAIN_FA2" = "问候内容";
+"LE_LINE_MAIN_FA3" = "提醒通知";
+"LE_LINE_MAIN_ADDTODO" = "新增交办事项";
+"LE_LINE_MAIN_INPUTHINT" = "自行输入交办事项";
+
+"LE_LINE_TODO_S1" = "回家的时候记得帮我按摩喔";
+"LE_LINE_TODO_S2" = "记得和肚子的北鼻说说话";
+"LE_LINE_TODO_S3" = "记得倒垃圾";
+"LE_LINE_TODO_S4" = "记得陪我去产检喔";
+"LE_LINE_TODO_S5" = "记得洗衣服喔";
+"LE_LINE_TODO_S6" = "晚餐後陪我去散散步";
+"LE_LINE_TODO_S7" = "今天早一点下班陪我喔";
+
+
+"LE_KNOWLEDGE_TITLE" = "宝典";
+"LE_KNOWLEDGE_ADVSEARCH" = "进阶查询";
+"LE_KNOWLEDGE_KEYWORDSEARCH" = "关键字查询";
+"LE_KNOWLEDGE_HINT" = "例：怀孕期出血";
+"LE_KNOWLEDGE_WEEK" = "怀孕周数";
+"LE_KNOWLEDGE_PEOPLE" = "查询对象";
+
+"LE_KNOWLEDGE_PEOPLE1" = "无";
+"LE_KNOWLEDGE_PEOPLE2" = "准妈妈";
+"LE_KNOWLEDGE_PEOPLE3" = "准爸爸";
+"LE_KNOWLEDGE_PEOPLE4" = "其他人";
+
+//好康资讯
+"LE_NEWS_TITLE" = "好康资讯";
+"LE_NEWS_B1" = "孕妈咪独享";
+"LE_NEWS_B2" = "妈妈教室";
+"LE_NEWS_B3" = "特卖资讯";
+"LE_NEWS_B4" = "政府单位辅助资讯";
+"LE_NEWS_B5" = "店铺资讯";
+"LE_NEWS_B6" = "推荐APP";
+
+
+"LE_NOTE_TITLE" = "怀孕记事";
+"LE_NOTE_TAB1" = "胎心音";
+"LE_NOTE_TAB2" = "超音波";
+"LE_NOTE_TAB3" = "身型记录";
+"LE_NOTE_TAB4" = "体重记录";
+
+"LE_NOTE_S1" = "输入目前体重";
+"LE_NOTE_S2" = "体重曲线";
+"LE_NOTE_S3" = "体重记录";
+"LE_NOTE_EDIT" = "编辑";
+"LE_NOTE_KNOWLEDGE" = "孕妇饮食大小事";
+
+"LE_PREG_S1" = "产检日";
+"LE_PREG_S2" = "时间：";
+"LE_PREG_S3" = "提醒通知";
+"LE_PREG_S4" = "新增备忘录";
+
+"LE_MYPREG_TITLE" = "我的预产期";
+"LE_MYBIRTHDAY_TITLE" = "我的生日";
+"LE_MYNICKNAME_TITLE" = "我的昵称";
+"LE_MYDATA_TITLE" = "个人资料";
+"LE_POINT_TITLE" = "累积点数";
+"LE_CHANGEPIC_TITLE" = "更换背景图";
+"LE_MYID_TITLE" = "我的ID";
+"LE_PROMOTEID_TITLE" = "推荐人ID";
+"LE_PROMOTEID_HINT" = "请输入推荐人ID";
+"LE_POINTEXCHANGE_TITLE" = "金币兑换";
